@@ -6,5 +6,12 @@ import { Component } from '@angular/core';
   styleUrls: ['./bike-inc.component.css']
 })
 export class BikeIncComponent {
+  public getCarDetails:any;
+
+  getMoreBikeDetails(){
+    return undefined;
+  }
+   getBikeDetails(){
+    return "Hello";
 
 }
