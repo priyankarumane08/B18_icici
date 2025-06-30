@@ -10,7 +10,8 @@ export class CarIncComponent {
   public getCarDetails2: any
 
   
-getCarInfo(){
+getCarInfo2(){
+  console.log("Hello");
   return this.getCarDetails2;
 }
 }
