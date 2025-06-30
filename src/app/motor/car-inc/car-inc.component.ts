@@ -11,7 +11,7 @@ export class CarIncComponent {
 
   
 getCarInfo2(){
-  console.log("Hello");
+  console.log("helllo")
   return this.getCarDetails2;
 }
 }
