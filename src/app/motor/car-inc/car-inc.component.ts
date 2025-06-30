@@ -7,5 +7,10 @@ import { Component } from '@angular/core';
 })
 export class CarIncComponent {
 
-  public getCarDetails: any
+  public getCarDetails2: any
+
+  
+getCarInfo(){
+  return this.getCarDetails2;
+}
 }
